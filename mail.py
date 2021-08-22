@@ -21,8 +21,8 @@ def read_template(message):
 
 #main function
 def main_func(victim,predator):
-    MY_ADDRESS="axkatey@gmail.com"
-    MY_PASSWORD="iamaxe#4"
+    MY_ADDRESS="axkatey@gmail.com" #Enter email address
+    MY_PASSWORD="iamaxe#4" #Enter password
     victim = str(victim)
     predator = str(predator)
 
